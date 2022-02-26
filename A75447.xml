@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the white minister's declaration</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75447</idno>
+            <idno type="STC">Wing A3453A</idno>
+            <idno type="STC">ESTC R42649</idno>
+            <idno type="EEBO-CITATION">38875524</idno>
+            <idno type="OCLC">ocm 38875524</idno>
+            <idno type="VID">152174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2281:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the white minister's declaration</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>An answer to Joseph Perkins' "The white minister's declaration, or, The meaning of the white scarf and girdle explained", dated 1699.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Perkins, Joseph, b. 1658. --  White minister's declaration, or, The meaning of the white scarf and girdle explained.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152174:1"/>
+            <!-- PDF PAGE 49 -->
+            <head>AN ANSWER TO THE White Miniſter's DECLARATION.</head>
+            <p>THE <hi>Wiſeman</hi> hath told us long ſince; That Judgments are prepared for Scorners, and Stripes for the Back of Fools. elſewhere: That a Whip is for a Horſe, a Bridle for an Aſs, and a Rod for the Fool's Back. I confeſs it were fitter to treat this Man according to that Direction of <hi>Solomon</hi> and make him ſenſible of his pub<g ref="char:EOLhyphen"/>lick folly at a Whipping-Poſt, where it not that the ſame
+<pb n="2" facs="tcp:152174:2"/>
+               <!-- PDF PAGE 50 -->
+               <hi>Solomon</hi> adviſes; <hi>To anſwer a Fool according to his Folly, leſt he be wiſe in his own Conceit.</hi> I need not Comment upon the Words, his White Scarf and Girdle hath expoſed hin more than any Man can; and his profeſſion followed by a Rabble and Boys about the Streets, proclaims him what he is. He deſerves to be diſtinguiſhed from the right and approved Mi<g ref="char:EOLhyphen"/>niſters of God's Word. Authority is wont to Brand Scandalous Livers by ſome open and known Mark; but what Juſtice ſhould have done: he hath perform'd of his own accord and aſum'd a white Scarf and Girdle upon a black Coat. But this Coxcomb is miſtaken in the Colour; for White ſignifies not alwayes Sincerity, Joy and innocenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but ſignifies ſometimes the worſt of all Hypo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ſie and Deceit, namely, That of the Devil, who takes upon him the Garb of an Angel of Light. And we know ſome Nations alwayes paints the Devil White. It appears by his Scandalous Libel and Behaviour that this black Spirit hath a great Influence upon him, for it matters not whether the Garb be white or black, whilſt the ſwarthy Spirit of Malice and Harred, of Revenge and Ani<g ref="char:EOLhyphen"/>moſity againſt Chriſt's Servants and the Stewards of the Myſte<g ref="char:EOLhyphen"/>ries of God, amongſt us appears ſo viſibly in this Reſeal. Had he any Reſpect for God or Religion, he had not ſo impu<g ref="char:EOLhyphen"/>dently caſt dirt upon the whole Sacred Function. beſpatter'd the Learning and Integrity of our Church and Clergy. But it is ſuppoſed by ſome, that this Tool is employed by a Diſſenting Party, to ſee how his Humour and Proceedings will reliſh amongſt the Mobb; and by this means to diſcredit God's Word. To accuſe them of being Hirelings, when they ſubſiſt and are enabled to diſcharge their Offices by that Maintenance that the Law allows them, is Nonſenſe. It hath been always the Endea<g ref="char:EOLhyphen"/>vour of the ſubtil Spirit of Hell to improveriſh and rob the Church, and to ſubſtract what belongs to it by Law an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rea<g ref="char:EOLhyphen"/>ſon. Poverty in God's Miniſters is a Scandal to Religion. Authority and a wiſe Government is concern'd for i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own Honour, as well as for God's Glory, to appoint a Compe<g ref="char:EOLhyphen"/>tency for his Service; That ſuch as attend upon the Altar may not beg their Bread and be pinch't with <hi>Penny</hi> and <hi>Want.</hi> A neceſſitous Clergy is Scandalous and to demand our Juſt Allow<g ref="char:EOLhyphen"/>ances<g ref="char:punc">▪</g> is but Equity, and no ſign of a Hireling. The Fool is miſtaſten in all his Notions. But the black Spirit of Envy
+<pb n="3" facs="tcp:152174:2"/>
+               <!-- PDF PAGE 50 -->
+appeats in his <hi>Declaration,</hi> becauſe he hath not the Prefer<g ref="char:EOLunhyphen"/>ment of other Men, and hath not been advanced hither then a Curate. It is ſuppoſed that he is excluded from Teaching and Preaching publickly for an ill Life. Such are not to be ſuffered, who are irregular and baſe, and have no Regard to themſelves nor the Credit of their Profeſſion. To put up ſuch in our Pulpits. is a diſhouour to God and Region. Had he been a Sober and Judicious Perſon; there had been Reſpect ſhewn to him; but the inconſiſtency of his Libel the Malice and Hatred that he diſcover, the Nonſenſe that he declares, ſhews him to be a Mad Man, rather then a Divine, or ſuch a one as is mentioned by <hi>Hoſea</hi> 9.7. <hi>The Prophet is a Fool, the ſpiritu<g ref="char:EOLunhyphen"/>al Man is mad, for the multitude of thine Iniqutity and the geat Hatred.</hi> Providence knows how to puniſh and reſent the Wickedneſs of Men by an Excluſion from their Of<g ref="char:EOLhyphen"/>fices. Whether this Fellow was ever called to it, I cannot un<g ref="char:EOLhyphen"/>derſtand, but his Scandalous Paper diſcovers him to have an empty Brain, as well as a malicious Heart, and to be more fit for a Bedlam or a <hi>Bridewell,</hi> than for a Pulpit; for a Pulp it; for who but a madman would have rid about the Streets as he has done, and proclaim every where his Folly. He fancies him<g ref="char:EOLhyphen"/>ſelf to be a Poet<g ref="char:punc">▪</g> a very ſimple one indeed; Such a o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as the <hi>Fables</hi> tell of <hi>Marſyas,</hi> who challenged <hi>Apollo,</hi> and the Muſes in Poetry and Muſick. I would not have ſuch a Fool pretend to an Art he underſtands not. All his <hi>Latin</hi> Verſes are Nonſenſe and falſe <hi>Latin.</hi> They are Ridiculous, and beſpeak this Fellow to be a great <hi>Ignoramus.</hi> There are other means of getting an honeſt. Livelihood, than t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pretending above our Ability. I would have this <hi>Joſ. Perkins,</hi> as he calls himſelf, to undertake ſome other Employment than that of a Miniſter, of which he is altogether unworthy and uncapable. Miniſters muſt not be Envious Slanderers. He neither underſtands the Duty, not practices the Rules of Chriſtianity, but by his Scurrilous baſe and abuſive Libel, deſerves to be Stigmatiz'd and ma<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k'd for one of the Baſeſt of Men I will apply to him the following Verſes.</p>
+            <q>
+               <pb n="4" facs="tcp:152174:3"/>
+               <!-- PDF PAGE 51 -->
+               <l>THe Devil with White his Black Nature vails</l>
+               <l>His Cloven Feet his ugly Face and Nails.</l>
+               <l>He now's become an Apoſtat wicked Fiend,</l>
+               <l>Blaſphemer of the Good, to none a Friend</l>
+               <l>But ſuch as with his baſe Deſigns partake,</l>
+               <l>And ſtrive with him the Churches Peace to ſhake.</l>
+               <l>Saints, Angels, and God himſelf doth ſlander,</l>
+               <l>With black Paint their brightneſs doth beſpatter.</l>
+               <l>O thou Fool! Thou worſt of Fools, I will name,</l>
+               <l>Who ſtrive to keep us form the <hi>Stygian</hi> Lake.</l>
+               <l>Depart, Depart, thou Hypocrite in Grain;</l>
+               <l>Ceaſe the Sacred Order in Malice't, ſtain,</l>
+               <l>And on thy Head let the ſame curſe alight,</l>
+               <l>Which nows the Lot of Satan, and one' an Angel bright.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
